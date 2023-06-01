@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tutedude-assignment/static/css/main.13c40514.css",
+    "main.js": "/tutedude-assignment/static/js/main.c6587c51.js",
+    "index.html": "/tutedude-assignment/index.html",
+    "main.13c40514.css.map": "/tutedude-assignment/static/css/main.13c40514.css.map",
+    "main.c6587c51.js.map": "/tutedude-assignment/static/js/main.c6587c51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13c40514.css",
+    "static/js/main.c6587c51.js"
+  ]
+}
